@@ -1,0 +1,9 @@
+# config.txt, the configurations of random number program.
+empty
+# the default context of the control panel, 'empty' for blanks.
+name.txt
+# the default name of the namelist file.
+README.md
+# the default name of the README file.
+0
+# decide whether the control panel is hidden. 1 for true, 0 for false.
